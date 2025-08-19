@@ -2,5 +2,5 @@ apiVersion: v2
 name: one-page-pub
 description: An ActivityPub server
 type: application
-version: 0.15.8
-appVersion: "0.15.8"
+version: 0.15.9
+appVersion: "0.15.9"
